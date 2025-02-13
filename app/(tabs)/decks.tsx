@@ -3,7 +3,7 @@ import { Text, View, StyleSheet } from 'react-native';
 export default function LoginScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Login screen</Text>
+      <Text style={styles.text}>Decks screen</Text>
     </View>
   );
 }

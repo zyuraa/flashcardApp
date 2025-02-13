@@ -5,7 +5,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Flaskard</Text>
-      <Link href="/login" style={styles.button}>
+      <Link href="/decks" style={styles.button}>
         Login
       </Link>
     </View>
